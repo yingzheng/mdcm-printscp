@@ -1,0 +1,3 @@
+[submodule "DICOM"]
+	path = DICOM
+	url = git@github.com:rcd/mdcm
